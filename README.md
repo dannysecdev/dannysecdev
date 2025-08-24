@@ -45,7 +45,7 @@
 
 ---
 
-###  Let’s Secure the Cyber World Together
+###  Let’s contribute to the cybersecurity industry together
 
 Feel free to:
 - ⭐ Star or contribute to any project—especially `osintapp`
