@@ -34,8 +34,8 @@
 | Project | Description |
 |---------|-------------|
 | [**osintapp**](https://github.com/dannysecdev/osintapp) | My first open-source web-based OSINT collection tool—early but promising |
-| [**codingforbeginners**](https://github.com/dannysecdev/codingforbeginners) | Python learning repository inspired by a beginner-friendly book :contentReference |
-| [**flutter-basic-calculator**](https://github.com/dannysecdev/flutter-basic-calculator) | Flutter app to hone mobile UI skills :contentReference |
+| [**codingforbeginners**](https://github.com/dannysecdev/codingforbeginners) | Python learning repository inspired by a beginner-friendly book |
+| [**flutter-basic-calculator**](https://github.com/dannysecdev/flutter-basic-calculator) | Flutter app to hone mobile UI skills |
 
 ---
 
