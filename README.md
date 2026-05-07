@@ -29,6 +29,12 @@
 
 [![Danny's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannysecdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannysecdev/dannysecdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannysecdev/dannysecdev/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dannysecdev/dannysecdev/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ### 🔭 Featured Projects
