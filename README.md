@@ -1,20 +1,19 @@
-<!-- Banner or Profile Image (optional) -->
-# Hey there, I'm Daniel “dannysecdev” Neustadter 👋
+# Hey there, I'm Daniel "dannysecdev" Neustadter 👋
 
 - 🛡️ Enlisted Software Developer in the U.S. Air Force  
 - 🕵️ Security Researcher & Founder at [Vazkeft LLC](https://vazkeft.com)  
--  Passionate about **open-source security tools**, **OSINT**, and **DevSecOps**
+- 🔐 Passionate about **open-source security tools**, **OSINT**, and **DevSecOps**
 
 ---
 
-###  What I’m Working On
+### 🚧 What I'm Working On
 - Developing and improving **OSINT tools** for collecting real-time data (`osintapp`)
 - Exploring **Automated Scanning & Threat Detection**
 - Learning advanced **Flutter UI** for secure mobile tools  
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -24,12 +23,15 @@
 
 ---
 
-###  GitHub Stats
-![Daniel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dannysecdev&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dannysecdev&theme=radical)](https://git.io/streak-stats)
+
+[![Danny's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannysecdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-###  Featured Projects
+### 🔭 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -39,18 +41,18 @@
 
 ---
 
-###  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-neustadter-b00363225/)
-[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=internetexplorer)](https://vazkeft.com)
+### 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-neustadter/)
+[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=googlechrome)](https://danielneustadter.com/)
 
 ---
 
-###  Let’s contribute to the cybersecurity industry together
+### 🤝 Let's contribute to the cybersecurity industry together
 
 Feel free to:
 - ⭐ Star or contribute to any project—especially `osintapp`
--  Contact me via LinkedIn for collaborations, research, or consulting opportunities
+- 📩 Contact me via LinkedIn for collaborations, research, or consulting opportunities
 
 <p align="center">
-  Thanks for stopping by! 
+  Thanks for stopping by!
 </p>
