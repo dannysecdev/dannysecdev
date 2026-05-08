@@ -34,6 +34,26 @@
 
 ### 🔭 Featured Projects
 
+---
+
+#### 🏆 [OCHO — Military Disaster Response PWA](https://github.com/dannysecdev/OCHO)
+
+> Full-stack disaster response coordination platform built for **Operation Agile Saber 2026**. Field personnel submit damage and UXO reports, manage evacuation manifests, and track personnel status — all **offline-first**, syncing automatically when connectivity resumes. EOC operators monitor a real-time WebSocket-powered dashboard.
+
+| EOC Dashboard | Accountability | UXO Hazard |
+|:---:|:---:|:---:|
+| [![EOC Dashboard](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/eoc_dashboard.png)](https://github.com/dannysecdev/OCHO) | [![Accountability](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/eoc_accountability.png)](https://github.com/dannysecdev/OCHO) | [![UXO Hazard](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/uxo_hazard_view.png)](https://github.com/dannysecdev/OCHO) |
+
+| Mobile Field Reports | Map View | Offline Queue |
+|:---:|:---:|:---:|
+| [![Field Reports](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/mobile_field_reports.png)](https://github.com/dannysecdev/OCHO) | [![Map View](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/mobile_map_view.png)](https://github.com/dannysecdev/OCHO) | [![Offline Queue](https://raw.githubusercontent.com/dannysecdev/OCHO/main/pictures_demo/mobile_queue.png)](https://github.com/dannysecdev/OCHO) |
+
+`React` `Express` `PostgreSQL` `Docker` `PWA` `WebSockets` `Offline-first` `IndexedDB`
+
+---
+
+#### Other Projects
+
 | Project | Description |
 |---------|-------------|
 | [**osintapp**](https://github.com/dannysecdev/osintapp) | My first open-source web-based OSINT collection tool—early but promising |
