@@ -52,6 +52,22 @@
 
 ---
 
+#### [USAF Contracting AI Automation Tool — SMART to RFI Generator](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool)
+
+> No-auth Next.js app that turns stakeholder inputs into **SMART requirements**, market research prompts, RFI drafts, and full RFP package documents — built for U.S. Air Force contracting workflows.
+
+| Home Screen | SMART Requirements | Market Research |
+|:---:|:---:|:---:|
+| [![Home](https://raw.githubusercontent.com/dannysecdev/USAF-Contracting-AI-Automation-Tool/main/docs/images/screenshot-1.png)](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool) | [![SMART Requirements](https://raw.githubusercontent.com/dannysecdev/USAF-Contracting-AI-Automation-Tool/main/docs/images/screenshot-2.png)](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool) | [![Market Research](https://raw.githubusercontent.com/dannysecdev/USAF-Contracting-AI-Automation-Tool/main/docs/images/screenshot-3.png)](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool) |
+
+| RFI Editor | RFP Package Generation |
+|:---:|:---:|
+| [![RFI Editor](https://raw.githubusercontent.com/dannysecdev/USAF-Contracting-AI-Automation-Tool/main/docs/images/screenshot-4.png)](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool) | [![RFP Package](https://raw.githubusercontent.com/dannysecdev/USAF-Contracting-AI-Automation-Tool/main/docs/images/screenshot-5.png)](https://github.com/dannysecdev/USAF-Contracting-AI-Automation-Tool) |
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Groq AI SDK` `Radix UI`
+
+---
+
 #### Other Projects
 
 | Project | Description |
