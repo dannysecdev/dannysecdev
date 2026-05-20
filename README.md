@@ -1,4 +1,4 @@
-# Hey there, I'm Daniel "dannysecdev" Neustadter 👋
+# Hey there, I'm Daniel Neustadter - dannysecdev👋
 
 - 🛡️ Enlisted Software Developer in the U.S. Air Force  
 - 🕵️ Security Researcher & Founder at [Vazkeft LLC](https://vazkeft.com)  
